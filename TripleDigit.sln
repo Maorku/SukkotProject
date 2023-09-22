@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleDigit", "SukkotProject\TripleDigit.csproj", "{530E0155-7ECC-43A7-93DB-ED9561F26512}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShekelChange", "ShekelChange\ShekelChange.csproj", "{61EEF667-3867-481B-815E-3A30641AAE1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{530E0155-7ECC-43A7-93DB-ED9561F26512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{530E0155-7ECC-43A7-93DB-ED9561F26512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{530E0155-7ECC-43A7-93DB-ED9561F26512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61EEF667-3867-481B-815E-3A30641AAE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EEF667-3867-481B-815E-3A30641AAE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EEF667-3867-481B-815E-3A30641AAE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EEF667-3867-481B-815E-3A30641AAE1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
