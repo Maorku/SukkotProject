@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleDigit", "SukkotProject\TripleDigit.csproj", "{530E0155-7ECC-43A7-93DB-ED9561F26512}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShekelChange", "ShekelChange\ShekelChange.csproj", "{61EEF667-3867-481B-815E-3A30641AAE1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleDig", "TripleDig\TripleDig.csproj", "{43E8D21B-EEA8-4D62-93C9-56A438B17D03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{530E0155-7ECC-43A7-93DB-ED9561F26512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{530E0155-7ECC-43A7-93DB-ED9561F26512}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{530E0155-7ECC-43A7-93DB-ED9561F26512}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{530E0155-7ECC-43A7-93DB-ED9561F26512}.Release|Any CPU.Build.0 = Release|Any CPU
 		{61EEF667-3867-481B-815E-3A30641AAE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{61EEF667-3867-481B-815E-3A30641AAE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61EEF667-3867-481B-815E-3A30641AAE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61EEF667-3867-481B-815E-3A30641AAE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E8D21B-EEA8-4D62-93C9-56A438B17D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E8D21B-EEA8-4D62-93C9-56A438B17D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E8D21B-EEA8-4D62-93C9-56A438B17D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E8D21B-EEA8-4D62-93C9-56A438B17D03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
