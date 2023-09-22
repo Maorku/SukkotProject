@@ -31,7 +31,7 @@ namespace TripleDig
 
             //int reverse = single * 100 + ten * 10 + hundred;
             //Console.WriteLine(reverse);
-            //^ will not work when last digit is 0
+            //^ if the last digit 
 
             string a, b, c;
             a = single.ToString();
