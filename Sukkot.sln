@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinaCS", "DinaCS\DinaCS.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxi", "Taxi\Taxi.csproj", "{CDBA5A07-1DFB-4BB8-93EA-DDAAF0BA0BC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineChars", "CombineChars\CombineChars.csproj", "{35CC858E-CEB3-490A-B0E4-1E7509FD476D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CDBA5A07-1DFB-4BB8-93EA-DDAAF0BA0BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDBA5A07-1DFB-4BB8-93EA-DDAAF0BA0BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDBA5A07-1DFB-4BB8-93EA-DDAAF0BA0BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CC858E-CEB3-490A-B0E4-1E7509FD476D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CC858E-CEB3-490A-B0E4-1E7509FD476D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CC858E-CEB3-490A-B0E4-1E7509FD476D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CC858E-CEB3-490A-B0E4-1E7509FD476D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
