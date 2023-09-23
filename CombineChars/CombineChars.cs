@@ -38,11 +38,21 @@ namespace CombineChars
                     Console.WriteLine("Both characters should represent valid digits.");
                 }
 
+                //אפשרי במקום זה לעשות הרבה יותר פשוט אבל לא רציתי להרוס את הקטע של השאלה
+
+            }   // int num1, num2, sum;
+                // Console.WriteLine("Enter first number");
+                // num1 = int.Parse(Console.ReadLine());
+                
+                //Console.WriteLine("Enter second number");
+                // num2 = int.Parse(Console.ReadLine());
+
+                //sum = num1 + num2;
+                //Console.WriteLine($"The sum of the numbers is: {sum}");
                 
 
-            }
-            
-                
+
+
 
 
         }

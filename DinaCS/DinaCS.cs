@@ -23,9 +23,9 @@ namespace DinaCS
             grade33 = rnd.Next(0, 101);
             grade50 = rnd.Next(0, 101);
 
-            grade17 = grade17 * 0.17;
-            grade33 = grade33 * 0.33;
-            grade50 = grade50 * 0.50;
+            grade17 *= 0.17;
+            grade33 *= 0.33;
+            grade50 *= 0.50;
 
             Console.WriteLine("Dina's grades are");
             Console.WriteLine($"Unit 1 and 2: {grade33}");
